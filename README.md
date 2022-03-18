@@ -1,4 +1,4 @@
-- Hi, I’m Robert 
+- Hi, I’m Robert. 
 
 I am learning to code. 
 
