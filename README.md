@@ -1,4 +1,4 @@
-- Hi, I’m Robert. I am an experienced Freight Broker who writes code. 
+- Hi, I’m Robert. I am a Freight Broker and I write code. 
 
  
 
